@@ -1,0 +1,7 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\System32":
+dswave.dll
+dmsynth.dll
+dmloader.dll
+dmusic.dll

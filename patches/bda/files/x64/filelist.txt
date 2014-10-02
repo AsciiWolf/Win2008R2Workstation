@@ -1,0 +1,17 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\System32":
+psisdecd.dll
+psisrndr.ax
+MSDvbNP.ax
+WSTPager.ax
+MSNP.ax
+EncDec.dll
+CPFilters.dll
+Mpeg2Data.ax
+kstvtune.ax
+VBICodec.ax
+ksxbar.ax
+vbisurf.ax
+MSVidCtl.dll
+bdaplgin.ax

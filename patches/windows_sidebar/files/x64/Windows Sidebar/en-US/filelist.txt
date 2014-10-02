@@ -1,0 +1,5 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%ProgramFiles%\Windows Sidebar\en-US":
+Sidebar.exe.mui
+sbdrop.dll.mui

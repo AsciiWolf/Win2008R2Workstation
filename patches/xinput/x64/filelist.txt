@@ -1,0 +1,9 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\System32":
+xinput9_1_0.dll
+
+// FIXME: Add info about following files.
+xinput9_1_0_x64.inf
+infinst.exe
+xinput9_1_0_x64.cat

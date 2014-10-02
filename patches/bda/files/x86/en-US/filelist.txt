@@ -1,0 +1,8 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\SysWOW64\en-US":
+kstvtune.ax.mui
+cpfilters.dll.mui
+MSVidCtl.dll.mui
+ksxbar.ax.mui
+encdec.dll.mui

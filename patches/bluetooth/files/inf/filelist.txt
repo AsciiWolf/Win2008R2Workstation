@@ -1,0 +1,27 @@
+Please replace this file with the files from Windows 7 listed below.
+
+// FIXME: Add info about following files.
+hidir.inf
+bthmtpenum.inf
+bthprint.inf
+hidbth.sys
+hidir.sys
+bthenum.sys
+bth.inf
+mdmbtmdm.inf
+netirda.inf
+fsquirt.exe
+BthMtpEnum.sys
+bthport.sys
+bthmodem.sys
+rfcomm.sys
+hidbth.inf
+bthpan.inf
+bthpan.sys
+bthspp.inf
+tdibth.inf
+BTHUSB.SYS
+irda.sys
+hidirkbd.inf
+BTHPRINT.SYS
+wshbth.dll

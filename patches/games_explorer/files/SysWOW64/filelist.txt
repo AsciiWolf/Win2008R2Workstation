@@ -1,0 +1,17 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\SysWOW64":
+gameux.dll
+pegi.rs
+grb.rs
+cero.rs
+csrr.rs
+WEB.rs
+pegi-pt.rs
+Wpc.dll
+pegi-fi.rs
+GameUXLegacyGDFs.dll
+esrb.rs
+pegibbfc.rs
+usk.rs
+oflc.rs

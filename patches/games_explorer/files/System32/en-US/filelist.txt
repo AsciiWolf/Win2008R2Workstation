@@ -1,0 +1,16 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\System32\en-US":
+esrb.rs.mui
+cero.rs.mui
+CSRR.rs.mui
+oflc.rs.mui
+grb.rs.mui
+gameux.dll.mui
+usk.rs.mui
+Wpc.dll.mui
+pegi.rs.mui
+WEB.rs.mui
+pegi-pt.rs.mui
+pegi-fi.rs.mui
+pegibbfc.rs.mui

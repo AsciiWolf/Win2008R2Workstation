@@ -1,0 +1,11 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\System32\en-US":
+irprops.cpl.mui
+BthpanContextHandler.dll.mui
+irftp.exe.mui
+bthudtask.exe.mui
+btpanui.dll.mui
+bthprops.cpl.mui
+irmon.dll.mui
+fsquirt.exe.mui

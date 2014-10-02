@@ -1,0 +1,4 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\SysWOW64\spp\tokens\ppdlic":
+msmpeg2enc-ppdlic.xrm-ms

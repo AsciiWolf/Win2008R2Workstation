@@ -1,0 +1,7 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\SysWOW64\en-US":
+irprops.cpl.mui
+bthudtask.exe.mui
+btpanui.dll.mui
+bthprops.cpl.mui

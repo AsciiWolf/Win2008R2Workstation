@@ -1,0 +1,15 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\System32":
+bthpanapi.dll
+btpanui.dll
+irftp.exe
+bthprops.cpl
+irmon.dll
+BthpanContextHandler.dll
+wshirda.dll
+bthudtask.exe
+fdBthProxy.dll
+irprops.cpl
+fdBth.dll
+wshbth.dll

@@ -1,0 +1,11 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%SystemRoot%\SysWOW64":
+btpanui.dll
+bthprops.cpl
+wshirda.dll
+bthudtask.exe
+fdBthProxy.dll
+irprops.cpl
+fdBth.dll
+wshbth.dll

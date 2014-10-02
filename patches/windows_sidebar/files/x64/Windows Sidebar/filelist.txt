@@ -1,0 +1,7 @@
+Please replace this file with the files from Windows 7 listed below.
+
+From "%ProgramFiles%\Windows Sidebar":
+wlsrvc.dll
+sbdrop.dll
+settings.ini
+sidebar.exe

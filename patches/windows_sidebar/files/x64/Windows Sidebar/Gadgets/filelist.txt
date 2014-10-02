@@ -1,0 +1,11 @@
+Please replace this file with the directories from Windows 7 listed below.
+
+From "%ProgramFiles%\Windows Sidebar\Gadgets":
+PicturePuzzle.Gadget
+Clock.Gadget
+RSSFeeds.Gadget
+Calendar.Gadget
+SlideShow.Gadget
+Currency.Gadget
+Weather.Gadget
+CPU.Gadget
