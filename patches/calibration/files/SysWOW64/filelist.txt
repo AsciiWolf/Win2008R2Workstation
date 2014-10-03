@@ -1,5 +1,4 @@
 Please replace this file with the files from Windows 7 listed below.
 
-From "%SystemRoot%\":
+From "%SystemRoot%\SysWOW64":
 dccw.exe
-
